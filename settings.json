@@ -1,0 +1,6 @@
+{   // [ ---- TOKEN ---- ]
+    "token": "", // put your bot's token here
+
+    // [ --- PREFIX --- ]
+    "prefix": "+" // set the prefix for your bot
+}
